@@ -20,3 +20,5 @@ The courses here will be categorized baseed on its source like: Universities, E-
 
 ## Universities (Foundation)
 
+1- The Ohio State University
+Link: https://youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
