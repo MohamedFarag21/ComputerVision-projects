@@ -12,9 +12,11 @@ the turning point for the field was when CNN(Convolutional Neural Netwroks) was 
 
 ![cv](https://user-images.githubusercontent.com/31109954/109515012-76486280-7a5b-11eb-9c85-e55fa5179524.jpg)
 
-*Before we start talking about computer vision we should first think about this as infinte number of trials to mimic how humans actually see, so first we need to have storng foundations about the idea and philosphy of vision, then how it is developed ?*
+*Before we start talking about computer vision we should first think about this as infinte number of trials to mimic how humans actually see, so first we need to have storng foundations about the idea and philosphy of vision, then understand how it is developed ?*
 
 
 # Courses
 The courses here will be categorized baseed on its source like: Universities, E-learning platforms, blogs, etc.
+
+## Universities
 
