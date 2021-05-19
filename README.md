@@ -18,5 +18,5 @@ the turning point for the field was when CNN(Convolutional Neural Netwroks) was 
 # Courses
 The courses here will be categorized baseed on its source like: Universities, E-learning platforms, blogs, etc.
 
-## Universities
+## Universities (Foundation)
 
