@@ -4,4 +4,4 @@ In this project, we are going to focus on two learning objectives:
 
 2- Design and train an autoencoder to increase the resolution of images with Keras.
 
-By the end of this course, you will be able to design and build an autoencoder neural network to create high-resolution images from low resolution source images.
+By the end of this project, you will be able to design and build an autoencoder neural network to create high-resolution images from low resolution source images.
