@@ -38,7 +38,7 @@ useful information is magnified and refined (for example, the class of the image
 
 <code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Activations_Visualization/Images/conv3_block1_3_conv.png?raw=true" width="939"  height="1786"></code>
 
-**At this image we are the third resnent block at the network, we lost the scene and the model focused more on the features related to the class.**
+**At this image we are at the third resnent block at the network, we lost the scene and the model focused more on the features related to the class.**
 
 Hope you enjoy it! ❤️
 
