@@ -28,11 +28,11 @@ Less abstract features, but we will see with increasing the depth the activation
 
 <code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Activations_Visualization/Images/conv2_block1_1_relu.png?raw=true" width="933"  height="264"></code>
 
-** As Francois explaining: "A deep neural
+*As Francois explaining: "A deep neural
 network effectively acts as an information distillation pipeline, with raw data going in
 (in this case, RGB pictures) and being repeatedly transformed so that irrelevant information
 is filtered out (for example, the specific visual appearance of the image), and
-useful information is magnified and refined (for example, the class of the image)."**
+useful information is magnified and refined (for example, the class of the image)."*
 
 **Deeper at the network...**
 
