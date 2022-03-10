@@ -5,4 +5,13 @@
 ## 1- What are the activations ?
 Activations are the output from the CNN layers, also they are called the output feature maps, which mainly generated after using the convolutional operation.
 
+### SO here we develop the steps easily to get out outputs:
+1- First choose your model.
+2- load your data.
+3- Choose the layers you want to visualize its activations.
+4- Generate the activations maps.
+5- Visualize (**The part of the code built by Francois ❤**)
+
+# Results
+
 
