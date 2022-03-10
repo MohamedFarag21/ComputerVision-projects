@@ -13,5 +13,8 @@ Activations are the output from the CNN layers, also they are called the output 
 5- Visualize (**The part of the code built by Francois ❤**)
 
 # Results
+At this trial, i utilized ResNet50V2, pretrained on ImageNet weights to predict the activations for the data i used for my research.
+
+
 
 
