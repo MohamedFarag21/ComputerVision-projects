@@ -18,7 +18,7 @@ At this trial, i utilized ResNet50V2, pretrained on ImageNet weights to predict 
 # Observations as made by Francois Chollet.
 
 1- The first conv layers near the inputs are having information regarding the whole scene as we can see:
-**This is the first Convolutional Layers**
+**This is the first Convolutional Layer**
 
 <code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Activations_Visualization/Images/conv1_conv.png?raw=true" width="933"  height="264"></code>
 
