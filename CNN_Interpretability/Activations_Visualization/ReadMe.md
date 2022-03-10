@@ -21,6 +21,10 @@ At this trial, i utilized ResNet50V2, pretrained on ImageNet weights to predict 
 
 <code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Activations_Visualization/Images/conv1_conv.png?raw=true" width="933"  height="264"></code>
 
+Less abstract features, but we will see with increasing the depth the activations become more abstract and less interpretable, while being too sparse.
+
+<code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Activations_Visualization/Images/conv2_block1_1relu.png?raw=true" width="933"  height="264"></code>
+
 
 
 
