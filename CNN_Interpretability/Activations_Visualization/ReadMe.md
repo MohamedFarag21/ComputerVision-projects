@@ -15,6 +15,14 @@ Activations are the output from the CNN layers, also they are called the output 
 # Results
 At this trial, i utilized ResNet50V2, pretrained on ImageNet weights to predict the activations for the data i used for my research.
 
+# Observations as made by Francois Chollet.
+
+1- The first conv layers near the inputs are having information regarding the whole scene as we can see:
+
+<code><img src="https://i.pinimg.com/originals/7b/db/5e/7bdb5e02f5b896af975897a4b5adc4f2.png" width="256"  height="256"></code>
+
+
+
 
 
 
