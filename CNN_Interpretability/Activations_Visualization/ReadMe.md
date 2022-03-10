@@ -19,7 +19,7 @@ At this trial, i utilized ResNet50V2, pretrained on ImageNet weights to predict 
 
 1- The first conv layers near the inputs are having information regarding the whole scene as we can see:
 
-<code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Activations_Visualization/Images/conv1_conv.png?raw=true" width="1024"  height="1024"></code>
+<code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Activations_Visualization/Images/conv1_conv.png?raw=true" width="933"  height="264"></code>
 
 
 
