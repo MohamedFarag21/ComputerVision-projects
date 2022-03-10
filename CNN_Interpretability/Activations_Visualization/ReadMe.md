@@ -1,4 +1,4 @@
-#**Visualizing CNNs' activations are one of the most important and intuitive techniques to understand what are the outputs from your layers.**
+#Visualizing CNNs' activations are one of the most important and intuitive techniques to understand what are the outputs from your layers.
 ***First of all, thanks to Francois Chollet for his great book and explanations, part of the code at this repo was developed by him at his book***
 
 ## 1- What are the activations ?
