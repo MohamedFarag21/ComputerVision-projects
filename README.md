@@ -12,16 +12,4 @@ the turning point for the field was when CNN(Convolutional Neural Netwroks) was 
 
 ![cv](https://user-images.githubusercontent.com/31109954/109515012-76486280-7a5b-11eb-9c85-e55fa5179524.jpg)
 
-*Before we start talking about computer vision we should first think about this as infinte number of trials to mimic how humans actually see, so first we need to have storng foundations about the idea and philosphy of vision, then understand how it is developed ?*
 
-
-# Courses
-The courses here will be categorized baseed on its source like: Universities, E-learning platforms, blogs, etc.
-
-## Universities (Foundation)
-
-1- The Ohio State University
-Link: https://youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz
-
-2- University of central Florida
-Link: https://youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9
