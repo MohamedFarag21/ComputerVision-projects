@@ -1,6 +1,8 @@
 # Visualizing Convnet filters
 
 *The aim is to understand what is the pattern at the image that a CNN filter responds to ?*
+**Thanks to Francois chollet for providing a way to understand deeper and simply without complications, the code used at this part was developed by him, at his book "Deep Lerarning with python 2nd edition."**
+<code><img src="https://images.manning.com/360/480/resize/book/a/2a49d38-96e5-4bf7-8555-57f689c52ebf/Chollet-2ed-HI.png" width="256"  height="256"></code>
 
 # How can we do it ?
 
