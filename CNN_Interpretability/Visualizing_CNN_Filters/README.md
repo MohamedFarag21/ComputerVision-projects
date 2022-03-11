@@ -14,3 +14,9 @@
 5. Measure if the filter response is totaly maximized.
 6. Utilize _Gradient_ascent_ to maximize the response of the filter.
 7. Back propagtion is used to modify the pixel values to find "**The image that will maximize the filter's response**"
+
+# Results
+Here we can see the results of some filter pattern at the `block3_conv1` at the VGG16 network
+
+
+<code><img src="https://github.com/MohamedFarag21/ComputerVision-projects/blob/main/CNN_Interpretability/Visualizing_CNN_Filters/Images/block3_conv1_index10.png?raw=true" width="256"  height="256"></code>
